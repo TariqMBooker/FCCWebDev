@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <title>Travel Agency Page</title>
+  <meta name="description" content="#">
+  </head>
+  <body>
+    <h1>Travel Destinations</h1>
+      <p>There are a multitude of travel opportunites</p>
+    <h2>Packages</h2>
+      <p>There are various packages</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn"
+      target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img alt="image of colloseum" src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg"> 
+      </a><figcaption>Some text
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn"target="_blank">
+        <img alt="image of swiss alps" src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg"> 
+      </a><figcaption>Some text
+    </figure>
+    <figure>
+     <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img alt="image of the sea" src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg">
+      </a><figcaption>Some text
+    </figure>
+    </body>
+    </html>
